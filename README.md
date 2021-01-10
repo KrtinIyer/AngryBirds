@@ -1,2 +1,1 @@
-# AngryBirds
-Class 23
+# Box Class
